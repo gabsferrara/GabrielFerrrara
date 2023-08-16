@@ -10,7 +10,7 @@ With experience in web development and a greater focus on Back-end, I'm always l
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gabrielferrrara&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielferrrara&theme=blue-green&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrrara&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrrara&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gabrielferrrara&theme=discord&no-frame=true&no-bg=true&margin-w=4)
